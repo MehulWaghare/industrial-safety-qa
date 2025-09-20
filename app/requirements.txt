@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pymupdf
+sqlite-utils
+sentence-transformers
+faiss-cpu
+rank-bm25
+nltk

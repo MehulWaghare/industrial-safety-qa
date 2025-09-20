@@ -1,0 +1,13 @@
+# Industrial Safety QA - Assessment Questions
+
+| No | Question                                         | Baseline Answer                                 | Reranker Answer                              | Notes / Source |
+|----|-------------------------------------------------|--------------------------------------------------|-------------------------------------------------|---------------- |
+| 1  | What is OSHA?                                   | Occupational Safety and Health Administration    | Occupational Safety and Health Administration   | PDF1, page 2    |
+| 2  | Who enforces safety laws in Ontario?            | Ministry of Labour                               | Ministry of Labour                              | PDF5, section 1 |
+| 3  | What is the purpose of machine guards?         | To prevent injury from moving parts               | To prevent injury from moving parts             | PDF3, para 4    |
+| 4  | What are common workplace hazards?             | Slips, trips, falls                               | Slips, trips, falls                             | PDF7, para 2    |
+| 5  | Define ergonomics in the workplace.            | Design of work to fit human capabilities          | Design of work to fit human capabilities        | PDF2, para 3    |
+| 6  | How to report workplace injuries?               | Notify supervisor immediately                    | Notify supervisor immediately                   | PDF8, para 1    |
+| 7  | What is lockout/tagout procedure?              | Ensure machines are off before maintenance        | Ensure machines are off before maintenance      | PDF6, para 5    |
+| 8  | What is the role of PPE?                        | Protect employees from hazards                   | Protect employees from hazards                  | PDF4, para 2    |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
